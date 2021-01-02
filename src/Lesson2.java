@@ -15,6 +15,5 @@ public class Lesson2 {
 
         //логический тип данных
         boolean b = true;
-        
     }
 }
